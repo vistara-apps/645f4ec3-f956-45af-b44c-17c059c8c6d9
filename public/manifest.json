@@ -1,0 +1,14 @@
+{
+  "name": "B402 Bullish Hub",
+  "description": "B402 Bullish Hub is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://645f4ec3-f956-45af-b44c-17c059c8c6d9.vercel.app",
+  "properties": {
+    "app": {
+      "name": "B402 Bullish Hub",
+      "description": "B402 Bullish Hub is a Base Mini App built with Zara.",
+      "url": "https://645f4ec3-f956-45af-b44c-17c059c8c6d9.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

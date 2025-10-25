@@ -10,8 +10,8 @@
     "iconUrl": "https://b402bullishhub.com/icon.png",
     "splashImageUrl": "https://b402bullishhub.com/splash.png",
     "splashBackgroundColor": "#0a1929",
-    "homeUrl": "https://b402bullishhub.com",
-    "webhookUrl": "https://b402bullishhub.com/api/webhook",
+    "homeUrl": "https://app-59c8c6d9-daim.vercel.app",
+    "webhookUrl": "https://app-59c8c6d9-daim.vercel.app/api/webhook",
     "subtitle": "Connect, trade, and amplify b402 sentiment on Base",
     "description": "A community hub for b402 token holders featuring sentiment frames, in-frame swaps, leaderboards, and exclusive holder content.",
     "screenshotUrls": [
@@ -20,7 +20,13 @@
       "https://b402bullishhub.com/screenshots/leaderboard.png"
     ],
     "primaryCategory": "social",
-    "tags": ["defi", "trading", "community", "base", "b402"],
+    "tags": [
+      "defi",
+      "trading",
+      "community",
+      "base",
+      "b402"
+    ],
     "heroImageUrl": "https://b402bullishhub.com/hero.png",
     "tagline": "Amplify b402 sentiment",
     "ogTitle": "b402 Bullish Hub",
