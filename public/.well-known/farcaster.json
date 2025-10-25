@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJiNDAyYnVsbGlzaGh1Yi5jb20ifQ",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+  },
+  "frame": {
+    "version": "next",
+    "name": "b402 Bullish Hub",
+    "iconUrl": "https://b402bullishhub.com/icon.png",
+    "splashImageUrl": "https://b402bullishhub.com/splash.png",
+    "splashBackgroundColor": "#0a1929",
+    "homeUrl": "https://b402bullishhub.com",
+    "webhookUrl": "https://b402bullishhub.com/api/webhook",
+    "subtitle": "Connect, trade, and amplify b402 sentiment on Base",
+    "description": "A community hub for b402 token holders featuring sentiment frames, in-frame swaps, leaderboards, and exclusive holder content.",
+    "screenshotUrls": [
+      "https://b402bullishhub.com/screenshots/frames.png",
+      "https://b402bullishhub.com/screenshots/swap.png",
+      "https://b402bullishhub.com/screenshots/leaderboard.png"
+    ],
+    "primaryCategory": "social",
+    "tags": ["defi", "trading", "community", "base", "b402"],
+    "heroImageUrl": "https://b402bullishhub.com/hero.png",
+    "tagline": "Amplify b402 sentiment",
+    "ogTitle": "b402 Bullish Hub",
+    "ogDescription": "Connect, trade, and amplify b402 sentiment on Base",
+    "ogImageUrl": "https://b402bullishhub.com/og-image.png"
+  }
+}
